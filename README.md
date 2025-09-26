@@ -1,0 +1,1 @@
+This project investigates how adverse childhood experiences (ACEs) and protective factors influence BMI in youth using data from the Adolescent Brain Cognitive Development (ABCD) Study. This includes scripts for processing and analyzing results for the paper entitled 'Adverse Experiences, Protective Factors, and Obesity in Latinx/Hispanic Youth' by Victoria Goldman et al. (2025).
